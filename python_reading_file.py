@@ -15,19 +15,23 @@ for file in files: #Go throught the folder
            #readline of the file
           for line in iter_f:"""
 
-file = open("./list/Unit10.tsv")
+file = open("./list/Unit8.tsv")
 count = 0
- 
+
 for line in file:
 	count = count + 1
 	singleWord = line.split("\t")[0]
-	print (singleWord)
-	url = "http://media.shanbay.com/audio/us/" + singleWord +".mp3"  
-	req2 = urllib2.Request(url)
-	response = urllib2.urlopen(req2)
-	#grab the data
-	data = response.read()
-	mp3Name = str(count) + ".mp3"
-	song = open(mp3Name, "wb")
-	song.write(data)    # was data2
-	song.close()
+	print (str(count) + " " + singleWord)
+
+	try:
+		url = "http://media.shanbay.com/audio/us/" + singleWord +".mp3"  
+		req2 = urllib2.Request(url)
+		response = urllib2.urlopen(req2)
+		#grab the data
+		data = response.read()
+		mp3Name = str(count) + ".mp3"
+		song = open(mp3Name, "wb")
+		song.write(data)    # was data2
+		song.close()
+	except urllib2.HTTPError:
+		print "Error: HTTP Error"

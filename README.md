@@ -15,9 +15,9 @@ Unit 1,2,4,6,9,10的合成。
 Unit2 Delphic - 改为小写 <br>
 Unit3 british thermal unit - 无发音文件<br>
 Unit4 Procrustean	- 改为小写<br>
-Unit5 corpus delicti - 无发音<br>
-Unit7 vis a vis, Achilles heel, Arcadia - 无发音<br>
-Unit8 aeolian harp - 无发音<br>
+Unit5 corpus delicti - 无发音 - 已解决<br>
+Unit7 vis a vis, Achilles heel, Arcadia - 无发音 - 已解决<br>
+Unit8 aeolian harp - 无发音 - 已解决<br>
 Unit10 Sisyphean - 改小写<br>
 
 ## 版权声明及参考文献
@@ -31,6 +31,7 @@ Unit10 Sisyphean - 改小写<br>
 音源API：
 [http://media.shanbay.com/audio/us/%s.mp3]()
 [http://media.shanbay.com/audio/uk/%s.mp3]()
+Google Definition
 
 Python音频合并
 [https://blog.csdn.net/skywalkervvv/article/details/41685687]()

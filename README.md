@@ -16,7 +16,7 @@ Unit2 Delphic - 改为小写 <br>
 Unit3 british thermal unit - 无发音文件<br>
 Unit4 Procrustean	- 改为小写<br>
 Unit5 corpus delicti - 无发音<br>
-Unit7 vis a vis - 无发音<br>
+Unit7 vis a vis, Achilles heel, Arcadia - 无发音<br>
 Unit8 aeolian harp - 无发音<br>
 Unit10 Sisyphean - 改小写<br>
 

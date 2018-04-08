@@ -9,7 +9,7 @@
 
 ## 进度
 **现在已完成**<br>
-Unit 1-10的合成。
+已完成所有单元的合成。撒花(ノ≧∇≦)ノ
 
 **已知问题：**<br>
 Unit2 Delphic - 改为小写 <br>
@@ -20,6 +20,10 @@ Unit7 vis a vis, Achilles heel, Arcadia - 无发音 - 已解决<br>
 Unit8 aeolian harp - 无发音 - 已解决<br>
 Unit10 Sisyphean - 改小写<br>
 
+## 下载链接
+[Google Drive地址](https://drive.google.com/drive/folders/1YKwtbJHpKFvI0eIYuq3MmcCTlwub-UPa?usp=sharing)
+[百度云地址](https://pan.baidu.com/s/1lvgYs2n0hHRuD0-C7m4ZNg)：密码: x8kk<br>
+
 ## 版权声明及参考文献
 
 扇贝单词书 Merriam Webster's Vocabulary Builder
@@ -29,8 +33,8 @@ Unit10 Sisyphean - 改小写<br>
 扇贝音源 
 版权由扇贝所有
 音源API：
-[http://media.shanbay.com/audio/us/%s.mp3]()
-[http://media.shanbay.com/audio/uk/%s.mp3]()
+[http://media.shanbay.com/audio/us/%s.mp3]()<br>
+[http://media.shanbay.com/audio/uk/%s.mp3]()<br>
 Google Definition
 
 Python音频合并
